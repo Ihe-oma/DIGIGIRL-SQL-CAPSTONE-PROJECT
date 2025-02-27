@@ -23,7 +23,9 @@ The data is sourced from a relational database containing tables related to cust
 ---
 # Major Highlights of the Visuals:
 •  Identified whether customers share the same address
+
 •  Found the customer with the **highest total payments**
+
 •  Extracted **key transaction trends** from payment data
 
 # Conclusion:
